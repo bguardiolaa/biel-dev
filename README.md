@@ -35,3 +35,4 @@ Projecte per practicar Git i GitHub mitjançant branques, commits, fitxers Markd
 
 ## Contacte
 - **Correu electrònic:** bguardiolaa@insjoaquimmir.cat
+- **Perfil GitHub:** [Perfil Biel](https://github.com/bguardiolaa)
